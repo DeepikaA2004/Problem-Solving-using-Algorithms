@@ -6,4 +6,5 @@
 3) Fraudulent Activity Notifications 
 4) Equalizing array elements
 5) Funny Strings
-6) Determining DNA health 
+6) Determining DNA health
+7) Bear and Steady gene problem
