@@ -11,5 +11,4 @@
 8) Single Lane Highway
 9) Linkedlist loop detection
 10) Swap in Linkedlist
-11) Remove Nth node from list end
-12) Palindrome list
+
