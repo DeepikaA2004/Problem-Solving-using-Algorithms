@@ -10,3 +10,4 @@
 7) Bear and Steady gene problem
 8) Single Lane Highway
 9) Linkedlist loop detection
+10)Swap in linkedlist
